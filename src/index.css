@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+html{
+  background-color: #ff8204;
+}
+
+.containers{
+  background-color: #ff8204;
+  width: 100%;
+  height:100%;
+}
+
+.containers img{
+  height:300px;
+}
+
+.social span{
+  color:#fff;
+  weight:400;
+  margin-top:12px;
+  margin-left:10px;
+}
+
+.social {
+  margin-top: 50px;
+}
+
+.footer {
+  position:absolute;
+left:0;
+bottom:0;
+right:0;
+text-align:center;
+color:#f7f502;
+
+}
+
+.header img{
+  filter: drop-shadow(0 0 0.75rem #f7f502);
+}
